@@ -1,5 +1,5 @@
 
-#' @title Extract Model Data for Deterministic Compartmental Models
+#' @title Extract Model Data for Deterministic Compartmental Models - Test
 #'
 #' @description This function extracts a model run from an object of class
 #'              \code{dcm} into a data frame using the generic
